@@ -2,7 +2,7 @@
   "name": "shop",
   "version": "1.0.0",
   "description": "gawa's Vue.js project",
-  "author": "gawa",
+  "author": "gawaa",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -67,12 +67,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gawa.git"
+    "url": "git+https://github.com/gawaa.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gawa"
   },
-  "homepage": "https://gawa"
+  "homepage": "https://gawaa"
 }
